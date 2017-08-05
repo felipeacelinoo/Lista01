@@ -1,0 +1,6 @@
+A sobrecarga permite que utilizemos o mesmo nome em vários métodos, dentro da mesma classe,
+desde que seus argumentos sejam diferentes.
+
+A sobreposição permite que uma classe filha reescreva o método da classe pai, ou seja o método da classe filha pode
+ter implementação diferente, mas a assinatura (tipo de retorno, nome do método, tipos e quantidades de parâmetros) 
+do método deve ser igual ao da classe pai.

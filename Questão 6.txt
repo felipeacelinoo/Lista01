@@ -1,0 +1,9 @@
+As classes abstratas são classes que não podem ser instaciadas por si só. 
+Ela serve como um modelo para as outras classes, sendo assim, os métodos 
+da classe abstrata devem ser sobrescritos nas classes filhas.
+
+Interface não é considerada uma classe, interface é considerada uma entidade.
+Diferente de uma classe abstrata, a interface é 100% abstrata, ou seja 
+todos os seus métodos são abstratos. E as variáveis por padrão são sempre contantes.
+Como o java não permite herança mútipla, a interface ajuda nessa questão.
+As classes que implementam a interface devem instanciar todos os seus métodos.

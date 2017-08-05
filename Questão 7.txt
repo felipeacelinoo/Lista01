@@ -1,0 +1,3 @@
+Herança é quando uma classe filha herda os mesmo atributos da classe pai.
+
+Composição é quando uma classe A está contida em uma classe B.
